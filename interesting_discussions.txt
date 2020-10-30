@@ -1,0 +1,3 @@
+1. group and population template issue:
+https://github.com/nipreps/smriprep/issues/8
+2. 
